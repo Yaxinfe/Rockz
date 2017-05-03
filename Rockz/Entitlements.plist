@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Entitlements.plist
+   Rockz
+
+   Created by k on 11/4/15.
+   Copyright (c) 2015 Admin. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>keychain-access-groups</key>
+        <array>
+            <string>5NU25HNN9K.*</string>
+        </array>
+        <key>get-task-allow</key>
+        <true/>
+        <key>application-identifier</key>
+        <string>5NU25HNN9K.jason.Rockz</string>
+        <key>com.apple.developer.team-identifier</key>
+        <string>5NU25HNN9K</string>
+        <key>aps-environment</key>
+        <string>development</string>
+        
+        <key>ExpirationDate</key>
+        <date>2016-11-03T11:51:37Z</date>
+        <key>Name</key>
+        <string>provisionfile</string>
+        <key>ProvisionedDevices</key>
+        <array>
+            <string>7fc617b564d579ddcea2db264d66907d0a60d251</string>
+            <string>3ec9dddb4e2ba9ec119dcc44587f9e09171d95d9</string>
+            <string>43F1E94147BCCDF34E4757C35EAA1BAC7AE060D2</string>
+        </array>
+        <key>TeamIdentifier</key>
+        <array>
+            <string>5NU25HNN9K</string>
+        </array>
+        <key>TeamName</key>
+        <string>Manuel Poueriet Galarza</string>
+        <key>TimeToLive</key>
+        <integer>365</integer>
+        <key>UUID</key>
+        <string>b025a116-e8dc-46ce-985c-e16c8f3dc6c8</string>
+        <key>Version</key>
+        <integer>1</integer>
+    </dict>
+</plist>
+
